@@ -11,7 +11,8 @@ Our results provide clear experimental evidence demonstrating that **different n
 The following figures illustrate the experimental findings:  
 ![image](https://github.com/user-attachments/assets/37161db4-d012-4ae9-a04b-45c87820459b)  
 ![image](https://github.com/user-attachments/assets/64044c90-7eff-4dae-a98e-e6dd764ed543)  
-![image](https://github.com/user-attachments/assets/9e640a69-54ec-4686-b3b7-866581c110bf)  
+![image](https://github.com/user-attachments/assets/9dedb104-77f9-47c7-a729-742ea09d18ff)
+
 
 ---
 
