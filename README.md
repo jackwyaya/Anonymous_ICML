@@ -11,9 +11,9 @@ This repository contains two key files for exploring neural preferences and visu
 ## Key Questions Addressed
 
 1. **Neural Preferences**:
-   - The authors have highlighted that "Different neurons prefer different motor parameters" throughout the paper. **A_File.py** explores this claim through experimental evidence, providing support for the assertion that neural preferences can be investigated using the proposed method.
+   - The authors have highlighted that "Different neurons prefer different motor parameters" throughout the paper. **For comment 1.md** explores this claim through experimental evidence, providing support for the assertion that neural preferences can be investigated using the proposed method.
    
 2. **Model Comparison and Visualizations**:
-   - **B_File.py** contains the visualizations for three models, helping to compare their embeddings and performance. In response to the request for visualizing the impact of different models, this file presents clear comparative graphs that help in understanding the contributions of each model variant. This addresses concerns raised regarding the similarities in performance across ablation variants in Table 3.
+   - **For comment 4.pdf** contains the visualizations for three models, helping to compare their embeddings and performance. In response to the request for visualizing the impact of different models, this file presents clear comparative graphs that help in understanding the contributions of each model variant. This addresses concerns raised regarding the similarities in performance across ablation variants in Table 3.
 
 For more information on our paper and rebuttal on the openreview.
