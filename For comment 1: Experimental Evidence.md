@@ -10,6 +10,10 @@ Our results provide clear experimental evidence demonstrating that **different n
 
 The following figures illustrate the experimental findings:  
 ![image](https://github.com/user-attachments/assets/37161db4-d012-4ae9-a04b-45c87820459b)  
+
+![96](https://github.com/user-attachments/assets/c8a8d42a-130d-4852-96c4-9421375748a5)
+
+
 ![image](https://github.com/user-attachments/assets/eceff15b-ecb7-4121-bdeb-243e4c943ab7)
 
 
