@@ -25,7 +25,7 @@ In **Figure 1**, we fitted individual neuronal firing rates using **speed**, **d
 
 ---
 
-### **2️⃣ Figure 3: Preferred Motor Parameters of Individual Neurons**
+### **2️⃣ Figure 2: Preferred Motor Parameters of Individual Neurons**
 
 In **Figure 3**, we identified the **preferred movement parameter** for each neuron by selecting the parameter with the highest \( R^2 \) value. This allowed us to determine which motor feature each neuron encodes most effectively:
 - **Many neurons predominantly prefer speed**, indicating that movement magnitude is a key feature for these neurons.
