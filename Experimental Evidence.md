@@ -10,7 +10,6 @@ Our results provide clear experimental evidence demonstrating that **different n
 
 The following figures illustrate the experimental findings:  
 ![image](https://github.com/user-attachments/assets/37161db4-d012-4ae9-a04b-45c87820459b)  
-![image](https://github.com/user-attachments/assets/64044c90-7eff-4dae-a98e-e6dd764ed543)  
 ![image](https://github.com/user-attachments/assets/eceff15b-ecb7-4121-bdeb-243e4c943ab7)
 
 
@@ -26,16 +25,7 @@ In **Figure 1**, we fitted individual neuronal firing rates using **speed**, **d
 
 ---
 
-### **2️⃣ Figure 2: Encoding Performance Distribution**
-
-In **Figure 2**, we evaluated the encoding performance of the three movement parameters across all neurons. The **\( R^2 \)** values, which measure the proportion of variance explained by each parameter, were used to quantify encoding quality:
-- **Speed** exhibits higher \( R^2 \) values in a subset of neurons, suggesting that these neurons are more sensitive to speed.
-- **Velocity** shows relatively stronger encoding performance in certain neurons, indicating that some neurons prefer the combined influence of speed and direction.
-- **Direction**, on the other hand, generally results in lower \( R^2 \) values, suggesting that directional information maybe **less effectively captured** by linear models.
-
----
-
-### **3️⃣ Figure 3: Preferred Motor Parameters of Individual Neurons**
+### **2️⃣ Figure 3: Preferred Motor Parameters of Individual Neurons**
 
 In **Figure 3**, we identified the **preferred movement parameter** for each neuron by selecting the parameter with the highest \( R^2 \) value. This allowed us to determine which motor feature each neuron encodes most effectively:
 - **Many neurons predominantly prefer speed**, indicating that movement magnitude is a key feature for these neurons.
