@@ -1,50 +1,46 @@
 # **Experimental Evidence Supporting "Different Neurons Prefer Different Motor Parameters"**
 
-To validate the claim that **"different neurons prefer different motor parameters"**, we conducted an experimental analysis by fitting **neuronal firing rates** with three motor parameters: **speed**, **direction**, and **velocity**. Using **linear regression**, we evaluated the **encoding performance** of each parameter for individual neurons (channels in this experiments). 
-
-Our results provide clear experimental evidence demonstrating that **different neurons exhibit distinct preferences** for specific motor parameters, thereby supporting the motivation behind the proposed method.
+To support the claim that **"different neurons prefer different motor parameters"**, we conducted an experimental study where we analyzed **neuronal firing rates** against three motor parameters: **speed**, **direction**, and **velocity**. Using **linear regression**, we assessed the **encoding performance** of each motor parameter for individual neurons (channels). The findings clearly demonstrate that **different neurons exhibit distinct preferences** for specific motor parameters, validating the proposed hypothesis.
 
 ---
 
 ## ✅ **Experimental Design and Results**
 
-The following figures illustrate the experimental findings:  
-![image](https://github.com/user-attachments/assets/37161db4-d012-4ae9-a04b-45c87820459b)  
+The following figures illustrate the results of the experiment:
 
-![96](https://github.com/user-attachments/assets/c8a8d42a-130d-4852-96c4-9421375748a5)
+![Figure 1](https://github.com/user-attachments/assets/37161db4-d012-4ae9-a04b-45c87820459b)
 
+![Figure 2](https://github.com/user-attachments/assets/c8a8d42a-130d-4852-96c4-9421375748a5)
 
-![image](https://github.com/user-attachments/assets/eceff15b-ecb7-4121-bdeb-243e4c943ab7)
-
-
+![Figure 3](https://github.com/user-attachments/assets/eceff15b-ecb7-4121-bdeb-243e4c943ab7)
 
 ---
 
 ### **1️⃣ Figure 1: Neuronal Encoding with Different Movement Parameters**
 
-In **Figure 1**, we fitted individual neuronal firing rates using **speed**, **direction**, and **velocity** via linear regression. The results reveal **substantial variability** in the encoding performance across neurons:
-- Some neurons exhibit a **stronger correlation with speed**, indicating a higher sensitivity to speed.
-- Other neurons show a **greater encoding performance for velocity**, suggesting they are more responsive to the combined effects of speed and direction.
-- **Fewer neurons demonstrate a preference for direction**, as indicated by the generally lower encoding performance for this parameter.
+In **Figure 1**, we fitted the neuronal firing rates to the **speed**, **direction**, and **velocity** motor parameters using **linear regression**. The results show significant **variability** in the encoding performance across individual neurons:
+- **Some neurons** exhibit a **stronger correlation with speed**, suggesting that they are more sensitive to movement magnitude.
+- **Other neurons** demonstrate a **higher encoding performance for velocity**, indicating a preference for the combined effects of speed and direction.
+- **A smaller subset of neurons** shows a preference for **direction**, which corresponds to a generally lower encoding performance for this parameter.
 
 ---
 
 ### **2️⃣ Figure 2: Preferred Motor Parameters of Individual Neurons**
 
-In **Figure 3**, we identified the **preferred movement parameter** for each neuron by selecting the parameter with the highest \( R^2 \) value. This allowed us to determine which motor feature each neuron encodes most effectively:
-- **Many neurons predominantly prefer speed**, indicating that movement magnitude is a key feature for these neurons.
-- **A subset of neurons favor velocity**, suggesting they are sensitive to the combined effects of speed and direction.
-- **Fewer neurons prefer direction**, highlighting that this parameter is less frequently the most effective feature for individual neurons.
+In **Figure 2**, we identify the **preferred motor parameter** for each neuron by selecting the parameter with the highest \( R^2 \) value from the linear regression analysis. This approach allows us to pinpoint the most effective motor feature for each neuron:
+- A **majority of neurons** primarily prefer **speed**, indicating that these neurons are highly sensitive to the magnitude of movement.
+- A **subset of neurons** demonstrates a preference for **velocity**, which suggests that they encode a combination of speed and direction.
+- **Fewer neurons** prefer **direction**, highlighting that direction alone is not the most effective parameter for the majority of neurons.
 
-By mapping the **preferred movement parameter** of each neuron, we provide direct experimental evidence that neurons **"Different Neurons Prefer Different Motor Parameters"**
+This distribution of preferred parameters confirms that **different neurons prefer different motor parameters** and supports the proposed hypothesis.
 
 ---
 
 ## ✅ **Conclusion: Experimental Evidence for Neuronal Preferences**
 
-The experimental results provide evidence supporting the claim that **different neurons prefer different motor parameters**:
-- **Encoding performance** varies significantly across neurons when fitted with speed, direction, and velocity.
-- Individual neurons exhibit **distinct preferences** for specific motor parameters, as demonstrated by the distribution of their preferred parameters.
-- These findings confirm that **neurons specialize in representing different movement features**, validating the motivation behind the proposed approach.
+The experimental analysis provides clear evidence for the hypothesis that **different neurons prefer different motor parameters**:
+- **Encoding performance** varies significantly across neurons, depending on the fitted motor parameters (speed, direction, and velocity).
+- Each neuron shows a **distinct preference** for a particular motor feature, which is demonstrated by the **preferred movement parameter** distribution.
+- These findings further suggest that **neurons specialize in encoding specific movement features**, validating the motivation behind the proposed method.
 
-By directly quantifying and visualizing the **neuronal preferences** for specific motion parameters, we substantiate the claim with robust experimental evidence.
+By quantitatively analyzing and visualizing the **neuronal preferences** for movement parameters, we offer solid experimental support for the claim that **neurons encode different aspects of motion uniquely**.
